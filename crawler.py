@@ -1,8 +1,8 @@
 import json
 import praw
 
-reddit = praw.Reddit(client_id = "S8uN7LL6R-RzspR1dt7YSQ",
-		client_secret = "Vm_M7kue2Af0jcnJskaOsAr64YWUBQ",
+reddit = praw.Reddit(client_id = "cRbhdnsLKCiWzKSCqYgCg",
+		client_secret = "n-x85M8ZfnVVi23oqV-sQL8MVx6ekw",
 		user_agent = "Browser:TestScrape v0.1 (by MAST)",
 )
 
